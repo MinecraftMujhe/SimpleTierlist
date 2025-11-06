@@ -1,0 +1,8 @@
+{
+  "token": "YOUR BOT TOKEN",
+  "prefix": "YOUR BOT PREFIX",
+  "roleID": "TESTER ROLE ID",
+  "channelID": "DISCORD CHANNEL ID",
+  "ticketCategoryID": "TICKET ID",
+  "ownerRoleID": "OWNER ROLE ID"
+}
